@@ -7,6 +7,7 @@
 // @grant    GM_addStyle
 // @run-at document-end
 // @namespace https://greasyfork.org/users/54
+// @updateURL https://github.com/Liu233w/tieba_old_posts_remind/raw/master/tieba_old_posts_remind.user.js
 // ==/UserScript==
 /*
 原扩展作者864907600cc甩锅强行让我背锅，这锅我不背不背BY绯色起源
